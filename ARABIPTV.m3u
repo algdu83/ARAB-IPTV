@@ -44,8 +44,9 @@ https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
 https://dmieigthvllta.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://aloula.faulio.com/storage/mediagallery/14/da/fullhd_823bc2fe722ede75410492d57fd6c201208b4224.png", إذاعــــة الـــقرآن الـكــــريم
 https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/swP1FDK/halaramallah-logo.png",رام الله Ramallah
+#EXTINF:-1 tvg-logo="https://i.ibb.co/swP1FDK/halaramallah-logo.png",هلا رام الله HalaRamallah
 https://halaramallahtv.com:2053/HRamallah-Tv/HalaRamallah/playlist.m3u8
+
 
 
 
